@@ -1,0 +1,6 @@
+dir: "../sites/all"
+ftp:
+  host: "localhost"
+  user: "myuser"
+  pass: "mypass"
+  path: "/var/www/html/myproject"
